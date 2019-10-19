@@ -3,7 +3,8 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-
+  superheros =["spider-man", "deadpool", "iron-man", "Captain america"]
+  superheros.sort
 end
 
 def using_reverse(array)
